@@ -1,2 +1,2 @@
 # Mini-React-Redux
-Created with CodeSandbox
+Implement Redux and React-Redux libray simply.
